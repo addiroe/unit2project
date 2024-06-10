@@ -1,0 +1,41 @@
+.Title{
+    text-align: center; 
+    color:#663F46;
+    border-style: dashed;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:#FFC0BD;
+}
+.brain{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+        height: 20%;
+
+}
+
+p{
+    text-indent: 25px;
+    color:#663F46
+}
+h2{
+    color:#663F46
+}
+
+h3{
+    color:#663F46
+}
+.Contact-Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:10%;
+    height:10%;
+}
+.Contact{
+    text-align:center;
+}
